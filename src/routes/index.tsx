@@ -9,15 +9,11 @@ import {
   Globe, 
   Palette, 
   Search, 
-  Mail,
-  Phone,
   Layout,
   Menu,
   X,
-  MessageSquare,
   Eye,
   Zap,
-  ShieldCheck,
   BarChart3,
   ChevronDown
 } from 'lucide-react'
